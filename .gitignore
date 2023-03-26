@@ -1,19 +1,8 @@
-lib-cov
-*.seed
-*.log
-*.csv
-*.dat
-*.out
-*.pid
-*.gz
-
-pids
-logs
-results
-coverage
-
-npm-debug.log
-node_modules
-
-# Ignore json file with credentials
-sauce.json
+# coverage*.seed
+# *.csv
+# *.out
+# *.gz
+## logs
+#
+### Ignore json file with credentials
+#
